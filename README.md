@@ -1,5 +1,4 @@
 # Terramesos
----
 
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
@@ -8,6 +7,8 @@ A monorepo with libraries and charms for provisioning resources in the Cloud.
 This repository uses OpenTofu, Bazel and Jsonnet for modularization, management and provisioning of resources.
 
 ![arch](assets/images/arch.png)
+
+[excalidraw](https://excalidraw.com/)
 
 ## To use
 

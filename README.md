@@ -10,7 +10,7 @@ This repository uses OpenTofu, Bazel and Jsonnet for modularization, management 
 
 [excalidraw](https://excalidraw.com/)
 
-## To use
+## How to use
 
 Make sure Bazel is installed (use oficial documentation)
 

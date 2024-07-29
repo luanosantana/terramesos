@@ -12,7 +12,7 @@ This repository uses OpenTofu, Bazel and Jsonnet for modularization, management 
 
 ## To use
 
-Make sure Bazel is installed
+Make sure Bazel is installed (use oficial documentation)
 
 ```sh
 bazel test //:main
